@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&text=⚡%20PRADEEP%20R%20V%20⚡&fontSize=55&fontColor=00F5FF&animation=twinkling&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%20✦%20%20AI%20ENGINEER%20%20✦%20%20JAVA%20DEVELOPER&descSize=20&descAlignY=60&color=0:050816,50:081B29,100:00C6FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=340&text=⚡%20PRADEEP%20R%20V%20⚡&fontSize=55&fontColor=00F5FF&animation=twinkling&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%20✦%20%20AI%20ENGINEER%20%20✦%20%20JAVA%20DEVELOPER&descSize=20&descAlignY=60&color=0:050816,50:081B29,100:00C6FF"/>
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <td width="35%" align="center">
 
-<img src="https://github.com/pradeep092004.png" width="240" style="border-radius:50%;"/>
+<img src="https://avatars.githubusercontent.com/pradeep092004?s=400" width="240" style="border-radius:50%;"/>
 
 </td>
 
@@ -28,7 +28,7 @@
 
 ### 💡 Building Intelligent Applications
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=800&color=00F5FF&center=false&vCenter=true&width=500&lines=Always+Learning...;Building+Modern+Applications;React+Developer;Java+Developer;Spring+Boot+Developer;Open+For+Software+Engineer+Roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=800&color=00F5FF&center=false&vCenter=true&width=700&lines=Always+Learning...;Building+Modern+Applications;React+Developer;Java+Developer;Spring+Boot+Developer;Open+For+Software+Engineer+Roles"/>
 
 </td>
 
@@ -560,6 +560,6 @@ Application Started Successfully...
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:050816,50:081B29,100:00C6FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&section=footer&color=0:050816,50:081B29,100:00C6FF"/>
 
 </div>
