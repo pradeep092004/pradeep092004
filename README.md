@@ -555,6 +555,8 @@ Application Started Successfully...
 
 ### 🚀 Let's Build Something Amazing Together!
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:0080ff&height=120&section=footer)
+
 </div>
 
 ---
