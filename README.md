@@ -5,7 +5,7 @@
 </div>
 
 
-<table align="center">
+<table align="center" cellspacing="0" cellpadding="20">
 <tr>
 
 <td width="35%" align="center">
