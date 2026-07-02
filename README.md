@@ -4,6 +4,7 @@
 
 </div>
 
+
 <table align="center">
 <tr>
 
@@ -45,7 +46,15 @@
 <img src="https://img.shields.io/badge/LEARNING-SPRING_BOOT-success?style=for-the-badge"/>
 
 </p>
+<p align="center">
 
+<img src="https://komarev.com/ghpvc/?username=pradeep092004&label=PROFILE+VIEWS&style=for-the-badge&color=00F5FF"/>
+
+<img src="https://img.shields.io/github/followers/pradeep092004?style=for-the-badge&color=00F5FF"/>
+
+<img src="https://img.shields.io/github/stars/pradeep092004?style=for-the-badge&color=00F5FF"/>
+
+</p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00F5FF"/>
 
 ---
@@ -157,7 +166,7 @@ public class Pradeep {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeep092004&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeep092004&theme=nightowl"/>
 
 </div>---
 
@@ -356,9 +365,9 @@ while(!success){
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pradeep092004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pradeep092004&show_icons=true&theme=nightowl&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep092004&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep092004&layout=compact&theme=nightowl&hide_border=true"/>
 
 </div>
 
@@ -368,7 +377,7 @@ while(!success){
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=pradeep092004&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=pradeep092004&theme=nightowl&hide_border=true"/>
 
 </div>
 
@@ -378,7 +387,7 @@ while(!success){
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep092004&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep092004&theme=nightowl&hide_border=true"/>
 
 </div>
 
@@ -388,7 +397,7 @@ while(!success){
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pradeep092004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pradeep092004&theme=nightowl&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
 
 </div>
 
@@ -398,9 +407,9 @@ while(!success){
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pradeep092004&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pradeep092004&theme=nightowl"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pradeep092004&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pradeep092004&theme=nightowl"/>
 
 </div>
 
@@ -408,9 +417,9 @@ while(!success){
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pradeep092004&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pradeep092004&theme=nightowl"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pradeep092004&theme=tokyonight&utcOffset=5.5"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pradeep092004&theme=nightowl&utcOffset=5.5"/>
 
 </div>
 
@@ -507,48 +516,35 @@ while(!success){
 
 ---
 
-# ⚡ Terminal
+# ⚡ Developer Console
 
 ```bash
-> whoami
+> booting developer...
+████████████████████████████ 100%
 
-Pradeep R V
+Name        : Pradeep R V
+Role        : Full Stack Developer
+Education   : B.Tech AI & Data Science
+College     : Nandha Engineering College
 
-> role
+Experience  : Fresher
+Focus       : AI | Full Stack | Java
+Learning    : Spring Boot | DSA | System Design
 
-Full Stack Developer
+Status      : 🟢 Available For Hire
+Mission     : Building Future-Ready Applications 🚀
 
-> languages
+$ compile_skills
+✔ Java
+✔ React
+✔ Node.js
+✔ Express.js
+✔ MySQL
+✔ MongoDB
 
-Java
-Python
-JavaScript
-
-> frontend
-
-React
-HTML
-CSS
-
-> backend
-
-Node.js
-Express.js
-Spring Boot
-
-> database
-
-MySQL
-MongoDB
-
-> status
-
-Building...
-Learning...
-Improving...
+$ run
+Application Started Successfully...
 ```
-
----
 
 # 💙 Thanks For Visiting
 
@@ -564,6 +560,6 @@ Improving...
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=170&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:050816,50:081B29,100:00C6FF"/>
 
 </div>
