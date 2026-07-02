@@ -19,6 +19,8 @@
 
 # 👋 Hi, I'm Pradeep R V
 
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&width=900&lines=FULL+STACK+DEVELOPER;JAVA+%7C+SPRING+BOOT+%7C+REACT;AI+ENGINEER+IN+PROGRESS" />
+
 ### 🚀 Full Stack Developer
 
 ### 🤖 AI & Data Science Student
@@ -72,6 +74,7 @@
 </p>
 
 ---
+<img src="https://raw.githubusercontent.com/JulianLaval/canvas-nest.js/master/demo.gif" />
 
 # 👨‍💻 About Me
 
@@ -118,6 +121,7 @@ public class Pradeep {
 ```
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,100:081B29&height=3" />
 
 # 🌐 Connect With Me
 
@@ -143,7 +147,7 @@ public class Pradeep {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,mysql,python,js,html,css,git,github,vscode,linux,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,mongodb,mysql,git,github,python&perline=9" />
 
 </div>
 ---
@@ -366,7 +370,7 @@ while(!success){
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pradeep092004&show_icons=true&theme=nightowl&hide_border=true&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pradeep092004&show_icons=true&theme=react&hide_border=true" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep092004&layout=compact&theme=nightowl&hide_border=true"/>
 
