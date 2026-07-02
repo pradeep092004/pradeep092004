@@ -1,20 +1,52 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f2027,50:203a43,100:2c5364&text=Pradeep%20R%20V&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Java%20Developer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&text=⚡%20PRADEEP%20R%20V%20⚡&fontSize=55&fontColor=00F5FF&animation=twinkling&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%20✦%20%20AI%20ENGINEER%20%20✦%20%20JAVA%20DEVELOPER&descSize=20&descAlignY=60&color=0:050816,50:081B29,100:00C6FF"/>
 
 </div>
 
-<h1 align="center">Hi 👋 I'm Pradeep R V</h1>
+<table align="center">
+<tr>
 
-<h3 align="center">
-Full Stack Developer • AI & Data Science Student • Java Developer
-</h3>
+<td width="35%" align="center">
+
+<img src="https://github.com/pradeep092004.png" width="240" style="border-radius:50%;"/>
+
+</td>
+
+<td width="65%">
+
+# 👋 Hi, I'm Pradeep R V
+
+### 🚀 Full Stack Developer
+
+### 🤖 AI & Data Science Student
+
+### ☕ Java Developer
+
+### 🌱 Spring Boot Learner
+
+### 💡 Building Intelligent Applications
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=800&color=00F5FF&center=false&vCenter=true&width=500&lines=Always+Learning...;Building+Modern+Applications;React+Developer;Java+Developer;Spring+Boot+Developer;Open+For+Software+Engineer+Roles"/>
+
+</td>
+
+</tr>
+</table>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub+Profile!;Full+Stack+Developer;Java+Developer;React+Developer;Spring+Boot+Learner;Always+Learning+New+Things;Open+To+Software+Engineering+Opportunities"/>
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-00F5FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LOCATION-TAMIL_NADU-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FOCUS-FULL_STACK-0891B2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LEARNING-SPRING_BOOT-success?style=for-the-badge"/>
 
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00F5FF"/>
 
 ---
 
@@ -23,6 +55,11 @@ Full Stack Developer • AI & Data Science Student • Java Developer
 ### 🚀 Building Modern Applications One Commit At A Time
 
 </div>
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=⚡%20WELCOME%20TO%20MY%20DIGITAL%20SPACE%20⚡&fontColor=00F5FF&fontSize=30&color=0:050816,100:081B29"/>
+
+</p>
 
 ---
 
@@ -92,14 +129,13 @@ public class Pradeep {
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js,react,html,css,nodejs,express,spring,mysql,mongodb,git,github,vscode,postman,figma,linux&perline=6"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,mysql,python,js,html,css,git,github,vscode,linux,postman&theme=dark"/>
 
 </div>
-
 ---
 
 # ⚡ What I'm Doing
