@@ -4,13 +4,14 @@
 
 </div>
 
+![GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:0080ff&height=200&section=header&text=Pradeep%20R%20V&fontSize=40)
 
 <table align="center" cellspacing="0" cellpadding="20">
 <tr>
 
 <td width="35%" align="center">
 
-<img src="https://avatars.githubusercontent.com/pradeep092004?s=400" width="240" style="border-radius:50%;"/>
+<img src="pradeep.jpeg" width="240" style="border-radius:50%;"/>
 
 </td>
 
